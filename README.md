@@ -10,7 +10,8 @@ ClonEvol is developed at <a href="http://www.maherlab.com/">Christopher Maher la
 
 
 ![](images/clonevol.png)
-*Fig. 1. Overview of ClonEvol. ClonEvol infers and visualizes clonal evolution trees using variants preclustered by other methods. It can also visualizes trees identified by other methods.
+
+Fig. 1. Overview of ClonEvol. ClonEvol infers and visualizes clonal evolution trees using variants preclustered by other methods. It can also visualizes trees identified by other methods.
 
 ## How to install and use ClonEvol?
 
