@@ -1,9 +1,0 @@
-Package: clonevol
-Title: What the package does (one line)
-Version: 1.0
-Authors@R: "Ha X. Dang <haxdang@gmail.com> [aut, cre]"
-Description: What the package does (one paragraph)
-Depends: R (>= 2.1.5)
-License: What license is it under?
-LazyData: true
-Suggests: testthat
