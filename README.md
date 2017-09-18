@@ -18,7 +18,7 @@ Fig. 1. Overview of ClonEvol. ClonEvol infers and visualizes clonal evolution tr
 Please follow ClonEvol documentation, maintained at <a href="https://github.com/hdng/clonevol">https://github.com/hdng/clonevol</a>.
 
 
-## How to cite ClonEvol
+## How to cite ClonEvol?
 
 H. X. Dang, B. S. White, S. M. Foltz, C. A. Miller, J. Luo, R. C. Fields, C. A. Maher; ClonEvol: clonal ordering and visualization in cancer sequencing, Annals of Oncology, , mdx517, https://doi.org/10.1093/annonc/mdx517
 
