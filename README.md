@@ -15,7 +15,7 @@ Fig. 1. Overview of ClonEvol. ClonEvol infers and visualizes clonal evolution tr
 
 ## How to install and use ClonEvol?
 
-ClonEvol code and documentation is maintained at <a href="https://github.com/hdng/clonevol">https://github.com/hdng/clonevol</a>
+Please follow ClonEvol documentation, maintained at <a href="https://github.com/hdng/clonevol">https://github.com/hdng/clonevol</a>.
 
 
 ## How to cite ClonEvol
